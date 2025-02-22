@@ -11,6 +11,3 @@ Program menampilkan 6 menu utama, yaitu: 1.Menambahkan Data, 2. Menampilkan Data
 4. Menghapus Produk – Pengguna memilih ID produk yang ingin dihapus, lalu program mencari produk tersebut dalam ArrayList dan menghapusnya. Jika produk memiliki file foto yang tersimpan di uploads/, maka foto tersebut juga dapat dihapus untuk menghemat penyimpanan.  
 5. Mencari Produk – Pengguna dapat mencari produk dengan mengetikkan kata kunci yang sesuai dengan nama atau kategori produk. Program akan melakukan pencarian dalam ArrayList dan menampilkan daftar produk yang sesuai dengan kata kunci yang dimasukkan, membantu pengguna menemukan produk dengan lebih cepat dan efisien.
 6. Keluar - Keluar dari Program jika user memilih (6/969), program berhenti.
-# Dukumentasi
-![Screenshot Program](CPP/Screenshot%202025-02-15%20203349.png)
-![Screenshot Program](CPP/Screenshot%202025-02-15%20203415.png)
